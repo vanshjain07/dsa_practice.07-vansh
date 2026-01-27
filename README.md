@@ -14,7 +14,7 @@ The focus is on **consistency, clarity, and strong fundamentals** rather than ru
 ## 🧠 Learning Approach
 
 - 📌 Topics are covered **sequentially**, from basics to advanced  
-- 📅 **Daily practice** — even small progress matters  
+- 📅 **Daily practice** — Because even small progress matters  
 - ✍️ Concepts are reinforced through **implementation and problem-solving**  
 - 🔁 Emphasis on **understanding over memorization**
 
